@@ -12,6 +12,6 @@ The original code was developed by CERN developers Donato CAMPANINI and Alessand
 It was patched in 2014 by CERN developer Paolo GRADASSI.
 
 Finally it was released in 25.01.2016 by CERN (EN/MME-EDS section, Alessandro BERTARELLI) under the 
-Library GNU LESSER GENERAL PUBLIC LICENSE v.3
+GNU LESSER GENERAL PUBLIC LICENSE v.3
 
 Copyright CERN 2015
